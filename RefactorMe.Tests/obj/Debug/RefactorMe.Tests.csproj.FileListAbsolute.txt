@@ -1,0 +1,10 @@
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\RefactorMe.Tests.dll
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\RefactorMe.Tests.pdb
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\RefactorMe.dll
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\RefactorMe.DontRefactor.dll
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\RefactorMe.DontRefactor.pdb
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\RefactorMe.pdb
+D:\angular2\BKA\RefactorMe.Tests\obj\Debug\RefactorMe.Tests.csprojResolveAssemblyReference.cache
+D:\angular2\BKA\RefactorMe.Tests\obj\Debug\RefactorMe.Tests.dll
+D:\angular2\BKA\RefactorMe.Tests\obj\Debug\RefactorMe.Tests.pdb

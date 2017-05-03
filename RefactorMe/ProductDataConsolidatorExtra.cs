@@ -39,7 +39,7 @@ namespace RefactorMe
             AddProduct(l, "Lawnmower", rate);
             AddProduct(p, "Phone Case", rate);
             AddProduct(t, "T-Shirt", rate);
-            AddProduct(t2, "T-Shirt2", rate);   //add t2
+            AddProduct(t2, "T-Shirt2", rate);   //add new type T-Shirt2
 
             return ps;
         }

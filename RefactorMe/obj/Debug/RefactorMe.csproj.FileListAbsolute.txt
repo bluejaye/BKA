@@ -1,0 +1,7 @@
+D:\angular2\BKA\RefactorMe\bin\Debug\RefactorMe.dll
+D:\angular2\BKA\RefactorMe\bin\Debug\RefactorMe.pdb
+D:\angular2\BKA\RefactorMe\bin\Debug\RefactorMe.DontRefactor.dll
+D:\angular2\BKA\RefactorMe\bin\Debug\RefactorMe.DontRefactor.pdb
+D:\angular2\BKA\RefactorMe\obj\Debug\RefactorMe.csprojResolveAssemblyReference.cache
+D:\angular2\BKA\RefactorMe\obj\Debug\RefactorMe.dll
+D:\angular2\BKA\RefactorMe\obj\Debug\RefactorMe.pdb

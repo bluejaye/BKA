@@ -14,13 +14,15 @@ namespace RefactorMe
         protected IQueryable<PhoneCase> p;
         protected IQueryable<TShirt> t;
 
-        protected List<Product> ps = new List<Product>();
+        protected List<Product> ps;
 
-        protected ProductDataConsolidator()
+        public ProductDataConsolidator()
         {
             l = new LawnmowerRepository().GetAll();
             p = new PhoneCaseRepository().GetAll();
             t = new TShirtRepository().GetAll();
+
+            ps = new List<Product>();
         }
 
         /// <summary>
@@ -67,11 +69,11 @@ namespace RefactorMe
         /// <param name="items"></param>
         /// <param name="type"></param>
         /// <param name="rate"></param>
-        protected void AddProduct(IQueryable<object> items, string type, double rate = 1)
+        protected void AddProduct(dynamic items, string type, double rate = 1)
         {
             foreach (var i in items)
             {
-                var item = i as Product;  //unbox
+                var item = i;  //unbox
                 ps.Add(new Product()
                 {
                     Id = item.Id,
