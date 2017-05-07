@@ -8,3 +8,7 @@ D:\angular2\BKA\RefactorMe.Tests\bin\Debug\RefactorMe.pdb
 D:\angular2\BKA\RefactorMe.Tests\obj\Debug\RefactorMe.Tests.csprojResolveAssemblyReference.cache
 D:\angular2\BKA\RefactorMe.Tests\obj\Debug\RefactorMe.Tests.dll
 D:\angular2\BKA\RefactorMe.Tests\obj\Debug\RefactorMe.Tests.pdb
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\Castle.Core.dll
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\Moq.dll
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\Castle.Core.xml
+D:\angular2\BKA\RefactorMe.Tests\bin\Debug\Moq.xml
